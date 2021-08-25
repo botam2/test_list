@@ -1,17 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Aybar"
-- given-nae
-  orcid: "https://orcid.org/0000-0003-2745-9535"
-- family-names: "Q Wu"
-  orcid: "https://orcid.org/0000-0001-5437-4073"
-- family-names: "L Bautista"
+- family-names: Smith
+  given-names: A. M.
+  orcid:"rcid: "https://orcid.org/0000-0003-2745-9535""
+- family-names: Katz
+  given-names: D. S.
   orcid: "https://orcid.org/0000-0003-3523-8687"
-- family-names: "R Yali"
-  orcid: "https://orcid.org/0000-0003-4542-3755"
-- family-names: "A Barja"
-  orcid: "https://orcid.org/0000-0001-5921-2858"
+- family-names: Niemeyer
+  given-names: K. E.
+  orcid: "https://orcid.org/0000-0003-3523-8687"
 title: "rgee: An R package for interacting with Google Earth Engine"
 version: 1.1.1
 date-released: 2019-07-27
@@ -21,11 +19,13 @@ type: article
 authors:
 - family-names: Smith
   given-names: A. M.
+  orcid:"rcid: "https://orcid.org/0000-0003-2745-9535""
 - family-names: Katz
   given-names: D. S.
+  orcid: "https://orcid.org/0000-0003-3523-8687"
 - family-names: Niemeyer
   given-names: K. E.
-doi: "https://doi.org/10.21105/joss.02272"
+  orcid: "https://orcid.org/0000-0003-3523-8687"
 journal: "Journal of Open Source Software"
 month: 7
 start: 1
