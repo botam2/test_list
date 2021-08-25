@@ -15,6 +15,9 @@ authors:
 - family-names: Bautista
   given-names: Lesly
   orcid: https://orcid.org/0000-0003-3523-8687
+- family-names: Yali
+  given-names: Roy
+  orcid: https://orcid.org/0000-0003-4542-3755
 - family-names: Barja
   given-names: Antony
   orcid: https://orcid.org/0000-0001-5921-2858
@@ -34,6 +37,9 @@ authors:
 - family-names: Bautista
   given-names: Lesly
   orcid: https://orcid.org/0000-0003-3523-8687
+- family-names: Yali
+  given-names: Roy
+  orcid: https://orcid.org/0000-0003-4542-3755
 - family-names: Barja
   given-names: Antony
   orcid: https://orcid.org/0000-0001-5921-2858
@@ -43,3 +49,4 @@ start: 1
 end: 6 
 title: "rgee: An R package for interacting with Google Earth Engine"
 year: 2020
+
