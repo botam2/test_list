@@ -1,0 +1,15 @@
+citHeader("To cite lis in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "lis: Toolkit for epidemiology analysis",
+  author   = "Gabriel Carrasco, Renato Cava, Jorge Ruiz,Brian Peña and Antony Barja",
+  journal  = "-",
+  year     = "2021",
+  textVersion = paste(
+    "Gabriel Carrasco-Escobar, Renato Cava, Jorge Ruiz-Cabrejos,
+    Brian Norman Peña-Calero and Antony Barja-Ingaruca (2021).
+    lis: InnovaLab Toolkit. R package version 0.1.2.
+    https://github.com/healthinnovation/lis"
+  )
+)
